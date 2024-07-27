@@ -1,0 +1,6 @@
+@THT_First_Circle_HostAddress = http://localhost:5220
+
+GET {{THT_First_Circle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
